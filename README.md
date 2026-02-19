@@ -1,7 +1,7 @@
 # Personal dotfiles intended for arch linux, hyprland.
 
 
-## (License)[LICENSE]
+## [License](LICENSE)
 
 # Installation
   -- move config directories to youre home .config folder.
